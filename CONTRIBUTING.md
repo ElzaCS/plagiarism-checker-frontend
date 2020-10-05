@@ -68,4 +68,3 @@ git push origin <YOUR-NEW-BRANCH>
 10. Once the pull request is approved and merged, you can pull the changes from upstream to your local repository and delete your extra branch(es).
 
 Happy Coding!
-
